@@ -1,0 +1,9 @@
+age = int(input("How old are you ")) 
+if age == 67:
+    print("Six..What")
+elif age >= 60:
+    print("You are ancient how are you still alive")
+elif age >=18:
+    print("You are an adult unc get a job")
+else:
+    print("You are a minor dont talk to strangers ")
