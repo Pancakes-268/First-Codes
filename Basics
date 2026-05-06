@@ -7,3 +7,11 @@ elif age >=18:
     print("You are an adult unc get a job")
 else:
     print("You are a minor dont talk to strangers ")
+
+NAME VERIFICATION 
+name = input("What is your name? ")
+color = input("What is your favorite color? ")
+age = input("How old are you ")
+print("Hello my name is " + name + " the chud ")
+print("my favorite color is " + color)
+print("And I am " + age + "years old because I am an unc ")
