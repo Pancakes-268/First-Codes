@@ -15,3 +15,19 @@ age = input("How old are you ")
 print("Hello my name is " + name + " the chud ")
 print("my favorite color is " + color)
 print("And I am " + age + "years old because I am an unc ")
+
+
+My humble opinions on colors :)
+color = input("What is your favorite color")
+if color ==("blue"):
+    print("Everyone likes the color blue, so un original")
+elif color==("green"):
+    print("Good, thats the only right answer")
+elif color==("purple"):
+    print("You probably let everyone know that dont you?")
+elif color==("orange"):
+    print("Do you think the color or the fruit came first?")
+elif color==("yellow"):
+    print("The color of piss, really?")
+else:
+    print("I said type a color bro its not that hard")
