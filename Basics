@@ -31,3 +31,29 @@ elif color==("yellow"):
     print("The color of piss, really?")
 else:
     print("I said type a color bro its not that hard")
+
+Guess the number 
+number = int(input("Guess a number between 1 and 10: "))
+if number == 1:
+    print("number is too low try again")
+elif number == 2:
+    print("still too low try again")
+elif number == 3: 
+    print("just a little higher")
+elif number == 4:
+    print("almost there")
+elif number == 5:
+    print("Very very close")
+elif number == 6:
+    print("Yeah that was the number good job")
+elif number == 7:
+    print("a bit lower")
+elif number == 8: 
+    print("Think lower")
+elif number == 9:
+    print("too high")
+elif number == 10:
+    print("Way too high")
+else:
+    print("Pick between 1 and 10")
+
